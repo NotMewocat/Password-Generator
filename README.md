@@ -1,2 +1,2 @@
 # Password-Generator
-gens
+this tool generate random passwords, you can personalize the lenght.
